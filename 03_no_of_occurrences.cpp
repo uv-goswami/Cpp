@@ -26,7 +26,7 @@ int main() {
                     cout << char(i); // converts the integer value 'i' into corresponding ASCII Character<< 
                     cout <<"\t\t"; 
                     cout<< count[i]; //Outputs the count of occurrences of the character stored in 'count[i]'.
-                    cout<< endl;
+                    cout<< endl; //Will end the line and starts to read from new line.
                 }
         }
     
