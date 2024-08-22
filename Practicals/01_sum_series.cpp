@@ -6,7 +6,7 @@
 #include<cmath> //This library, which is included in C++, provides mathematical functions like 'pow()' that are not part of the standard language itself. It
 using namespace std; //This line declares that the program will use the 'std' namespace to avoid prefix standard library elements with 'std::' .
 
-double sum(int n)//This defines a function named 'sum' that takes an integer parameter 'n' and returns a double value.
+double sum(int n)//This defines a function named  'sum' that takes an integer parameter 'n' and returns a double value.
     {
         double S = 0.0;//A variable with 'double' as datatype that will hold the sum of the series
 
